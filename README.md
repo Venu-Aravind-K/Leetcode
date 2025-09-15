@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Venu-Aravind-K/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
