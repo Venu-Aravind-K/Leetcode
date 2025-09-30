@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0009-palindrome-number) |
+| [0492-construct-the-rectangle](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [2383-add-two-integers](https://github.com/Venu-Aravind-K/Leetcode/tree/master/2383-add-two-integers) |
 ## Stack
 |  |
