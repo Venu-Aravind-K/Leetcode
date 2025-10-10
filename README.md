@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 ## Linked List
 |  |
 | ------- |
@@ -46,8 +47,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+## Sliding Window
+|  |
+| ------- |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
