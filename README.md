@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0143-reorder-list) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
