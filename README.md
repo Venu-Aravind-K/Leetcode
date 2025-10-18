@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
