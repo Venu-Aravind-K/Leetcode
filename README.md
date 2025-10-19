@@ -65,5 +65,6 @@
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1179-game-play-analysis-i](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
