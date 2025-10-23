@@ -35,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0009-palindrome-number) |
 | [0492-construct-the-rectangle](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [1013-fibonacci-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Venu-Aravind-K/Leetcode/tree/master/2383-add-two-integers) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0143-reorder-list) |
+| [1013-fibonacci-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,12 @@
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Venu-Aravind-K/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1179-game-play-analysis-i](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1179-game-play-analysis-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Venu-Aravind-K/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
